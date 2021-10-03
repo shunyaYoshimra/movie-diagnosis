@@ -1,6 +1,5 @@
 <template>
   <div id="top">
-    hogehoge
     <Main></Main>
   </div>
 </template>
