@@ -1,5 +1,8 @@
 # movie-diagnosis
 
+##　Page 
+You can view this page on  https://github.com/shunyaYoshimra/movie-diagnosis/dist/index.html
+
 ## Project setup
 ```
 npm install
