@@ -1,7 +1,8 @@
 # movie-diagnosis
 
-##　Page 
-You can view this page on  https://shunyayoshimra.github.io/movie-diagnosis/dist/
+## Page
+You can view this page on  
+https://shunyayoshimra.github.io/movie-diagnosis/dist/
 
 ## Project setup
 ```
