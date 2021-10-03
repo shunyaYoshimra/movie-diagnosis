@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="top">
     <Main></Main>
   </div>
 </template>
@@ -15,3 +15,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+#top {
+  background-color: #ebecf0;
+}
+</style>

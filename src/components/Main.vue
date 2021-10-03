@@ -1,15 +1,11 @@
 <template>
-  <div>
-    {{ component }}
-  </div>
+  <div></div>
 </template>
 
 <script>
 export default {
   data() {
-    return {
-      component: "main",
-    };
+    return {};
   },
 };
 </script>
